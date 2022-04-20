@@ -22,5 +22,5 @@
        label="Hydranea quercifolia" 
        description="Collected by William Bartram" 
        license="public domain" 
-       url="https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/4981769">
+       url="https://photos.app.goo.gl/2nnpXB4aCHyNPFpT9">
        
