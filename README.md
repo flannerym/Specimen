@@ -14,10 +14,10 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-
-<parem ve-plant-specimen
-       label="Hydrangea quercifolia" 
-       description="collected by William Bartram" 
+<param ve-image 
+       label="Hydranea quercifolia" 
+       description="Collected by William Bartram" 
        license="public domain" 
-eid="Q368161" max="1" reverse="true" type="Holotype">       
+       url="
+https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/4981769">
        
