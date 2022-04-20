@@ -14,6 +14,8 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
+# Image
+
 <param ve-image 
        label="Hydranea quercifolia" 
        description="Collected by William Bartram" 
