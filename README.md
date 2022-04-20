@@ -13,7 +13,7 @@
 <param ve-entity eid="Q18243"> <!-- William Bartram -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
-![image](https://user-images.githubusercontent.com/100491439/164310833-f761cfcc-195d-48b2-9007-71bb42c0ae9b.png)
+
 
 <parem ve-plant-specimen
        label="Hydrangea quercifolia" 
