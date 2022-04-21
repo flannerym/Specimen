@@ -25,9 +25,7 @@ Two specimens of *Magnolia grandiflora* collected more than 100 years apart.  Th
 
 There are many elements found on herbarium sheets, though no one sheet is likely to have all of them.  The most common ones are, of course, a label and a plant specimen.  There is usually a stamp for the institution where the sheet is found and sometimes a barcode, that serves as identification for an online version of the sheet.  
 
-<param ve-plant-specimen eid="Q2727878" max="1">![image](https://user-images.githubusercontent.com/100491439/164499192-780ef78e-e317-41a1-8c04-b6bc392eb476.png)
-
-
+<param ve-plant-specimen eid="Q2727878" max="1">
 
 
 
