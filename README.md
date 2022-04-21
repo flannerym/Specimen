@@ -11,16 +11,12 @@
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q368161"> <!-- Hydrangea quercifolia -->
 <param ve-entity eid="Q18243"> <!-- William Bartram -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
 
+# What Is a Herbarium Specimen?
 
-
-## Image
-
+A plant cutting placed between pieces of paper and pressed until it is dried and flattened is an example of a herbarium specimen.  A herbarium is a collection of such sheets. 
 <param ve-image 
-       label="Hydranea quercifolia" 
-       description="Collected by William Bartram" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/f/f3/Ranunculus_acris_specimen_by_Joseph_Witry_in_the_Herbarium_LUX.jpg">
-       
+       manifest="https://upload.wikimedia.org/wikipedia/commons/f/f3/Ranunculus_acris_specimen_by_Joseph_Witry_in_the_Herbarium_LUX.jpg">
+
+
+
