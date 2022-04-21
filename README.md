@@ -22,5 +22,5 @@
        label="Hydranea quercifolia" 
        description="Collected by William Bartram" 
        license="public domain" 
-       url="https://photos.app.goo.gl/2nnpXB4aCHyNPFpT9">
+       url="https://upload.wikimedia.org/wikipedia/commons/f/f3/Ranunculus_acris_specimen_by_Joseph_Witry_in_the_Herbarium_LUX.jpg">
        
