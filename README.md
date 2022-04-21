@@ -9,13 +9,13 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q368161"> <!-- Hydrangea quercifolia -->
-<param ve-entity eid="Q18243"> <!-- William Bartram -->
+<param ve-entity eid="Q161116"> <!-- Magnolia grandiflora -->
+<param ve-entity eid="Q7199560"> <!-- Pityopsis graminifolia -->
 
 # What Is a Herbarium Specimen?
 
-A plant cutting placed between pieces of paper and pressed until it is dried and flattened is an example of a herbarium specimen.  A herbarium is a collection of such sheets.       
-<param ve-image fit="cover" url="https://bisque.cyverse.org/image_service/image/00-poPxnbSBbEi5n6tRN64V4T/resize:1250/format:jpeg"> label=Pityopsis graminofolia" description="Collected by John Nelson, 2018" license="Public Domain"> 
+A plant cutting placed between pieces of paper and pressed until it is dried and flattened is an example of a herbarium specimen, in this case, *Pityopsis graminifolia*.  A herbarium is a collection of such sheets.       
+<param ve-image fit="cover" url="https://bisque.cyverse.org/image_service/image/00-poPxnbSBbEi5n6tRN64V4T/resize:1250/format:jpeg"> label=Pityopsis graminifolia" description="Collected by John Nelson, 2018" license="Public Domain"> 
        
 Two specimens of *Magnolia grandiflora* collected more than 100 years apart.  There is much more information on the later sheet.
 
