@@ -15,8 +15,7 @@
 # What Is a Herbarium Specimen?
 
 A plant cutting placed between pieces of paper and pressed until it is dried and flattened is an example of a herbarium specimen.  A herbarium is a collection of such sheets.       
-<param ve-image
-       url="https://bisque.cyverse.org/image_service/image/00-poPxnbSBbEi5n6tRN64V4T/resize:4000/format:jpeg">  
+<param ve-image fit="cover" url="https://bisque.cyverse.org/image_service/image/00-poPxnbSBbEi5n6tRN64V4T/resize:4000/format:jpeg">  
        
 Two specimens of *Magnolia grandiflora* collected more than 100 years apart.  There is much more information on the later sheet.
 
