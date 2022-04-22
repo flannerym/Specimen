@@ -3,7 +3,7 @@
 <param ve-config 
        title="Herbarium Specimen"
        author="Maura C. Flannery"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://raw.githubusercontent.com/NaturalHistoryMuseum/ClaytonHerbarium-imgs/master/imgs/BM000042706.JPG" 
+       banner="https://iiif.juncture-digital.org/banner/?url=http://www.nationaalherbarium.nl/Cade/etc/bigimages/52B.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
