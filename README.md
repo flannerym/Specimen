@@ -11,8 +11,7 @@
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q161116"> <!-- Magnolia grandiflora -->
 <param ve-entity eid="Q7199560"> <!-- Pityopsis graminifolia -->
-<param ve-entitiy eid="Q157180"> <!-- Alchemilla -->
-<param ve-entity eid="Q156522"> <!-- Pepper -->
+
 
 # What Is a Herbarium Specimen?
 
