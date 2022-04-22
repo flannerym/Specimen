@@ -16,7 +16,7 @@
 
 A plant cutting placed between pieces of paper and pressed until it is dried and flattened is an example of a herbarium specimen, in this case, *Pityopsis graminifolia*.  A herbarium is a collection of such sheets.       
 
-<param ve-image fit="contain" url="https://bisque.cyverse.org/image_service/image/00-poPxnbSBbEi5n6tRN64V4T/resize:1250/format:jpeg" label=Pityopsis graminifolia" description="Collected by John Nelson, 2018" license="Public Domain"> 
+<param ve-image url="https://bisque.cyverse.org/image_service/image/00-poPxnbSBbEi5n6tRN64V4T/resize:1250/format:jpeg" label=Pityopsis graminifolia" description="Collected by John Nelson, 2018" license="Public Domain"> 
        
 Two specimens of *Magnolia grandiflora* collected more than 100 years apart.  There is much more information on the later sheet.
 
@@ -25,8 +25,7 @@ Two specimens of *Magnolia grandiflora* collected more than 100 years apart.  Th
 
 There are many elements found on herbarium sheets, though no one sheet is likely to have all of them.  The most common ones are, of course, a label and a plant specimen.  There is usually a stamp for the institution where the sheet is found and sometimes a barcode, that serves as identification for an online version of the sheet.  
 
-<parem ve-image 
-url="https://photos.google.com/photo/AF1QipOcrQ4efZQAkLS1_Mxog108aoRnxbyBCFc_LkR3">
+<param ve-plant-specimen eid="Q2727878" max="1">
 
 
 
