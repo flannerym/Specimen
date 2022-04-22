@@ -11,7 +11,7 @@
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q161116"> <!-- Magnolia grandiflora -->
 <param ve-entity eid="Q7199560"> <!-- Pityopsis graminifolia -->
-<param ve-entitiy eid="Q157180"> <!-- Achemilla -->
+<param ve-entitiy eid="Q157180"> <!-- Alchemilla -->
 <param ve-entity eid="Q159536"> <!-- Piper -->
 
 # What Is a Herbarium Specimen?
@@ -29,6 +29,6 @@ There are many elements found on herbarium sheets, though no one sheet is likely
 
 <param ve-plant-specimen eid="Q161116" max="2">                                              
                                                                                         
-While scientific plant names today are composed of two words, for the genus and species, the names used in early herbaria are often much longer as for  region="519,716,666,530" *Piper* and region="557,1377,666,530" *Achemilla*.
+While scientific plant names today are composed of two words, for the genus and species, the names used in early herbaria are often much longer as for  region="519,716,666,530" *Piper* and region="557,1377,666,530" *Alchemilla*.
 
 <param ve-image url="https://medialib.naturalis.nl/file/id/L.2110961/format/large">
