@@ -3,7 +3,7 @@
 <param ve-config 
        title="Herbarium Specimen"
        author="Maura C. Flannery"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hydrangea_quercifolia4normanack.jpg/640px-Hydrangea_quercifolia4normanack.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://raw.githubusercontent.com/NaturalHistoryMuseum/ClaytonHerbarium-imgs/master/imgs/BM000042706.JPG" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
