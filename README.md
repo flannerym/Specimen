@@ -29,4 +29,4 @@ There are many elements found on herbarium sheets, though no one sheet is likely
                                                                                         
 There are many elements found on some but not all specimens.  If the plant name changed, there will be a revised name on what is called a determination slip.  There may also be a fragment packet
 
-<param ve-image url="https://plants.jstor.org/seqapp/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=/jp2/fpx/00/gpi-ph-typspe-01-24/ph0006/ph00043626.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=3&svc.rotate=0&svc.region=0,0,256,256">
+<param ve-plant-specimen eid="Q24700682" max="2">
