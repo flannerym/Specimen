@@ -29,6 +29,6 @@ There are many elements found on herbarium sheets, though no one sheet is likely
 
 <param ve-plant-specimen eid="Q161116" max="2">                                              
                                                                                         
-While scientific plant names today are composed of two words, for the genus and species, the names used in early herbaria are often much longer as for  <span data-click-image-zoomto="519,716,666,530">pepper</span> and *Alchemilla*.
+While scientific plant names today are composed of two words, for the genus and species, the names used in early herbaria are often much longer as for  <span data-click-image-zoomto="519,716,666,530">pepper</span> and <span data-click-image-zoomto"557,1377,666,530">lady's mantle</span>.
 
 <param ve-image url="https://medialib.naturalis.nl/file/id/L.2110961/format/large">
