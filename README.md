@@ -32,4 +32,6 @@ There are many elements found on herbarium sheets, though no one sheet is likely
                                                                                         
 While scientific plant names today are composed of two words, for the genus and species, the names used in early herbaria are often much longer as for  <span data-click-image-zoomto="519,716,666,530">pepper</span> and *<span data-click-image-zoomto="557,1377,666,530">lady's mantle</span>*.
 
-<param ve-image url="https://medialib.naturalis.nl/file/id/L.2110961/format/large">
+<param ve-image url="https://medialib.naturalis.nl/file/id/L.2110961/format/large"> ![image](https://user-images.githubusercontent.com/100491439/164908979-e5ad3cd8-24e3-48b8-805a-51ae95866bf7.png)
+                                                                                  
+One of the best ways to document the characteristics of a plant is with a pressed specimen.  Of course, it is great to be able to observe a plant alive and growing, but that isn’t always possible.  Those who study plants like to have pressed plants as reference material for when they are far from where the plant grows or during winter or dry spells when the plant may not be growing.  The practice of pressing plants began in the 16th century in Italy and quickly became an important tool for botanists, those who study plants.  The tomato, had only recently brought from Latin America to Europe when this specimen was made in about 1550 in Italy.
